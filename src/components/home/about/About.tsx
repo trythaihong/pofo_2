@@ -14,12 +14,12 @@ export default function AboutMe() {
   const personalInfo = [
     {
       label: "Education",
-      values: ["Bachelor's in Computer Science"],
+      values: ["Year 3 in Computer Science"],
       icon: <FaGraduationCap className="text-blue-400" />,
     },
     {
       label: "Experience",
-      values: ["Graphic Design", "Internship in Web Development"],
+      values: ["Graphic Design", "Administration"],
       icon: <FaBriefcase className="text-green-400" />,
     },
     {
@@ -69,10 +69,7 @@ export default function AboutMe() {
           </h3>
           <ul className="list-disc list-inside text-gray-400 space-y-2 text-lg">
             <li>Graduated frontend course at Master IT Siem Reap (3 months)</li>
-            <li>
-              Completed paid internship as frontend developer with a freelance
-              team (3 months)
-            </li>
+
             <li>
               Graduated backend course at Next Level PHP, Laravel, MySQL (3
               months)

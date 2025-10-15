@@ -12,7 +12,7 @@ import DynamicProject from "./project/dynamic";
 import Cer from "./certificate/Cer";
 import Dynamic from "./dynamic/Dynamic";
 import Volen from "./volen/Volen";
-// import Other from "./other/Other";
+import Other from "./other/Other";
 import Tool from "./tool/tool";
 export default function Home() {
   useEffect(() => {
@@ -31,7 +31,7 @@ export default function Home() {
       <Project></Project>
       <Dynamic></Dynamic>
       <DynamicProject></DynamicProject>
-      {/* <Other></Other> */}
+      <Other></Other>
       <Skill></Skill>
       <Tool></Tool>
       <Contact></Contact>

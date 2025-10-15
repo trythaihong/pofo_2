@@ -43,13 +43,13 @@ export const servicesData = [
   },
 ];
 export const phpProject = [
-  {
-    id: 1,
-    image: "/images/img/university.png",
-    title: "University-blog",
-    des: "PHP ",
-    url: "https://github.com/trythaihong/php-universily-blog",
-  },
+  // {
+  //   id: 1,
+  //   image: "/images/img/university.png",
+  //   title: "University-blog",
+  //   des: "PHP ",
+  //   url: "https://github.com/trythaihong/php-universily-blog",
+  // },
   {
     id: 2,
     image: "/images/img/blog.png",
@@ -64,20 +64,20 @@ export const phpProject = [
     des: "PHP ",
     url: "https://github.com/trythaihong/php-bookecm",
   },
-  {
-    id: 4,
-    image: "/images/img/ecm.png",
-    title: "Ecm",
-    des: "PHP ",
-    url: "https://github.com/trythaihong/php-ecm",
-  },
-  {
-    id: 5,
-    image: "/images/img/employee.png",
-    title: "Employee",
-    des: "PHP ",
-    url: "https://github.com/trythaihong/php-emlpoyee-mng",
-  },
+  // {
+  //   id: 4,
+  //   image: "/images/img/ecm.png",
+  //   title: "Ecm",
+  //   des: "PHP ",
+  //   url: "https://github.com/trythaihong/php-ecm",
+  // },
+  // {
+  //   id: 5,
+  //   image: "/images/img/employee.png",
+  //   title: "Employee",
+  //   des: "PHP ",
+  //   url: "https://github.com/trythaihong/php-emlpoyee-mng",
+  // },
   {
     id: 6,
     image: "/images/img/food.png",
@@ -92,13 +92,13 @@ export const phpProject = [
     des: "PHP ",
     url: "https://github.com/trythaihong/php-scroll-mng",
   },
-  {
-    id: 8,
-    image: "/images/img/pofo.png",
-    title: "portfolio",
-    des: "PHP ",
-    url: "https://github.com/trythaihong/php-pofo",
-  },
+  // {
+  //   id: 8,
+  //   image: "/images/img/pofo.png",
+  //   title: "portfolio",
+  //   des: "PHP ",
+  //   url: "https://github.com/trythaihong/php-pofo",
+  // },
 ];
 export const projectDynamic = [
   {
@@ -129,69 +129,69 @@ export const projectDynamic = [
     des: "Laravel + Bootstrap",
     url: "https://github.com/trythaihong/ecm1-laravel",
   },
-  {
-    id: 5,
-    image: "/images/dynamicweb/ecm1-lara.png",
-    title: "ECM",
-    des: "Laravel + Bootstrap",
-    url: "https://github.com/trythaihong/ecm2-laravel",
-  },
-  {
-    id: 6,
-    image: "/images/dynamicweb/blog.png",
-    title: "BLOG",
-    des: "Laravel + Bootstrap",
-    url: "https://github.com/trythaihong/blog-laravel",
-  },
-  {
-    id: 7,
-    image: "/images/dynamicweb/library.png",
-    title: "Library",
-    des: "Laravel + Bootstrap",
-    url: "https://github.com/trythaihong/library-laravel",
-  },
-  {
-    id: 8,
-    image: "/images/dynamicweb/hair.png",
-    title: "Hair Shop",
-    des: "Laravel + Bootstrap",
-    url: "https://github.com/trythaihong/laravel-hairstore",
-  },
-  {
-    id: 9,
-    image: "/images/dynamicweb/ecm3-lara.png",
-    title: "ECM",
-    des: "Laravel + Bootstrap",
-    url: "https://github.com/trythaihong/ecm3-laravel",
-  },
-  {
-    id: 10,
-    image: "/images/dynamicweb/valenteer.png",
-    title: "Volunteer",
-    des: "Laravel + Bootstrap",
-    url: "https://github.com/trythaihong/valentter-laravel",
-  },
-  {
-    id: 11,
-    image: "/images/dynamicweb/ecm4-lara.png",
-    title: "ECM",
-    des: "Laravel + Bootstrap",
-    url: "https://github.com/trythaihong/ecm4-laravel",
-  },
-  {
-    id: 12,
-    image: "/images/dynamicweb/react-laravel.png",
-    title: "Constuction Web",
-    des: "React + Laravel",
-    url: "https://github.com/trythaihong/react-laravel",
-  },
-  {
-    id: 13,
-    image: "/images/dynamicweb/gym.png",
-    title: "Gym Web",
-    des: "React + Laravel",
-    url: "https://github.com/trythaihong/react-laravel-2",
-  },
+  // {
+  //   id: 5,
+  //   image: "/images/dynamicweb/ecm1-lara.png",
+  //   title: "ECM",
+  //   des: "Laravel + Bootstrap",
+  //   url: "https://github.com/trythaihong/ecm2-laravel",
+  // },
+  // {
+  //   id: 6,
+  //   image: "/images/dynamicweb/blog.png",
+  //   title: "BLOG",
+  //   des: "Laravel + Bootstrap",
+  //   url: "https://github.com/trythaihong/blog-laravel",
+  // },
+  // {
+  //   id: 7,
+  //   image: "/images/dynamicweb/library.png",
+  //   title: "Library",
+  //   des: "Laravel + Bootstrap",
+  //   url: "https://github.com/trythaihong/library-laravel",
+  // },
+  // {
+  //   id: 8,
+  //   image: "/images/dynamicweb/hair.png",
+  //   title: "Hair Shop",
+  //   des: "Laravel + Bootstrap",
+  //   url: "https://github.com/trythaihong/laravel-hairstore",
+  // },
+  // {
+  //   id: 9,
+  //   image: "/images/dynamicweb/ecm3-lara.png",
+  //   title: "ECM",
+  //   des: "Laravel + Bootstrap",
+  //   url: "https://github.com/trythaihong/ecm3-laravel",
+  // },
+  // {
+  //   id: 10,
+  //   image: "/images/dynamicweb/valenteer.png",
+  //   title: "Volunteer",
+  //   des: "Laravel + Bootstrap",
+  //   url: "https://github.com/trythaihong/valentter-laravel",
+  // },
+  // {
+  //   id: 11,
+  //   image: "/images/dynamicweb/ecm4-lara.png",
+  //   title: "ECM",
+  //   des: "Laravel + Bootstrap",
+  //   url: "https://github.com/trythaihong/ecm4-laravel",
+  // },
+  // {
+  //   id: 12,
+  //   image: "/images/dynamicweb/react-laravel.png",
+  //   title: "Constuction Web",
+  //   des: "React + Laravel",
+  //   url: "https://github.com/trythaihong/react-laravel",
+  // },
+  // {
+  //   id: 13,
+  //   image: "/images/dynamicweb/gym.png",
+  //   title: "Gym Web",
+  //   des: "React + Laravel",
+  //   url: "https://github.com/trythaihong/react-laravel-2",
+  // },
 ];
 
 export const projectData = [
@@ -245,13 +245,13 @@ export const projectData = [
   },
 ];
 export const otherData = [
-  {
-    id: 1,
-    image: "/images/python.png",
-    title: "Crude App",
-    des: "Python",
-    url: "https://github.com/trythaihong/python-crude",
-  },
+  // {
+  //   id: 1,
+  //   image: "/images/python.png",
+  //   title: "Crude App",
+  //   des: "Python",
+  //   url: "https://github.com/trythaihong/python-crude",
+  // },
   {
     id: 2,
     image: "/images/python.png",
@@ -259,20 +259,7 @@ export const otherData = [
     des: "Python",
     url: "https://github.com/trythaihong/python-todo-app",
   },
-  {
-    id: 3,
-    image: "/images/python.png",
-    title: "Student mng",
-    des: "Python",
-    url: "https://github.com/trythaihong/python-student-mng",
-  },
-  {
-    id: 4,
-    image: "/images/python.png",
-    title: "Student mng",
-    des: "Python",
-    url: "https://github.com/trythaihong/python-student-mng",
-  },
+
   {
     id: 5,
     image: "/images/java2.png",
@@ -281,12 +268,19 @@ export const otherData = [
     url: "https://github.com/trythaihong/java_calculate",
   },
   {
-    id: 6,
-    image: "/images/java2.png",
-    title: "Banking app",
-    des: "Java",
-    url: "https://github.com/trythaihong/java-banking",
+    id: 3,
+    image: "/images/python.png",
+    title: "Student mng",
+    des: "Python",
+    url: "https://github.com/trythaihong/python-student-mng",
   },
+  // {
+  //   id: 6,
+  //   image: "/images/java2.png",
+  //   title: "Banking app",
+  //   des: "Java",
+  //   url: "https://github.com/trythaihong/java-banking",
+  // },
 ];
 export const skillsData = [
   {
@@ -323,12 +317,12 @@ export const skillsData = [
     id: 7,
     title: "Tailwind CSS",
     image: "/images/th.png",
-    percent: "67%",
+    percent: "57%",
   },
   {
     id: 8,
-    title: "TypeScript",
-    image: "/images/ts.svg",
+    title: "Next js",
+    image: "/images/nx.png",
     percent: "45%",
   },
 
@@ -336,13 +330,13 @@ export const skillsData = [
     id: 10,
     title: "PHP",
     image: "/images/php.png",
-    percent: "80%",
+    percent: "70%",
   },
   {
     id: 11,
     title: "Laravel",
     image: "/images/laravel.png",
-    percent: "85%",
+    percent: "65%",
   },
 
   {
@@ -354,33 +348,33 @@ export const skillsData = [
 
   {
     id: 15,
-    title: "github",
-    image: "/images/github.png",
-    percent: "88%",
+    title: "Java",
+    image: "/images/SKILL/IMG/JAVA.png",
+    percent: "30%",
   },
   {
     id: 16,
     title: "Git",
     image: "/images/git.png",
-    percent: "55%",
+    percent: "40%",
   },
   {
     id: 17,
     title: "Python",
     image: "/images/SKILL/IMG/PYTHON.png",
-    percent: "55%",
+    percent: "42%",
   },
   {
     id: 19,
     title: "Wordpress",
     image: "/images/SKILL/IMG/WORDPRESS.png",
-    percent: "65%",
+    percent: "29%",
   },
   {
     id: 20,
     title: "Sql Server",
     image: "/images/SKILL/IMG/sql.png",
-    percent: "55%",
+    percent: "50%",
   },
 ];
 export const toolData = [
@@ -431,6 +425,12 @@ export const toolData = [
     id: 9,
     title: "Composer",
     image: "/images/tooll/compo.png",
+    percent: "60%",
+  },
+  {
+    id: 10,
+    title: "Elcipe",
+    image: "/images/tooll/ec.png",
     percent: "60%",
   },
 ];
